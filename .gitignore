@@ -1,0 +1,9 @@
+# build outputs
+*.o
+orderbook
+verify
+
+# macOS debug symbols
+*.dSYM/
+
+.DS_Store
